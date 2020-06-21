@@ -1,3 +1,3 @@
 # Learning-Github
-testing how github works;
+testing how github works.
 continued learning
